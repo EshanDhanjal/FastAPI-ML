@@ -7,13 +7,13 @@ A simple FastAPI app that serves a trained Machine Learning model (Random Forest
 ## 📂 Project Structure
 
 simple-ML/
-├── main.py # FastAPI app
-├── train_model.py # Script to train & save the model
-├── iris_model.joblib # Saved ML model
-├── venv/ # Virtual environment (not tracked by Git)
-├── .gitignore
-├── requirements.txt
-└── README.md
+main.py # FastAPI app
+train_model.py # Script to train & save the model
+iris_model.joblib # Saved ML model
+venv/ # Virtual environment (not tracked by Git)
+.gitignore
+requirements.txt
+README.md
 
 
 ---
